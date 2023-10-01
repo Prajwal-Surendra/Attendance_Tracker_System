@@ -22,6 +22,7 @@ The Attendance Tracker System is a web-based application that provides functiona
 
 - **Frontend:**
   - React.js
+  - Bootstrap
   - Axios (for API requests)
 
 - **Backend:**
